@@ -1,6 +1,6 @@
 # Test d'analyse pour Molotov
 
-Ce dépôt contient le code et l'analyse du test de l'ingénieur en analyse pour Molotov.
+Ce dépôt contient le code et l'analyse du test pour le poste d'Analytics Engineer pour Molotov.
 
 ## Structure du projet
 
