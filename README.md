@@ -16,7 +16,7 @@ Ce dépôt contient le code et les fichiers de réponse au test technique pour l
 
    ``shell
    git clone https://github.com/your-username/molotov-analytics-test.git
-   cd molotov-analytics-test
+   cd molotov-analytics-test``
 
 ## Question 1 
 Faire un ```pip install requirement.txt```  puis naviguez dans le dossier question_1_notebook et ouvrez le notebook.
